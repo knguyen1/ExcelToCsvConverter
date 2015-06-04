@@ -1,0 +1,10 @@
+SCC = This is a Source Code Control file.
+
+[ExcelToCsvConverter.csproj]
+SCC_Aux_Path = amdc1pbm01:8877:AMNADev
+SCC_Project_Name = $/ExcelToCsvConverter/ExcelToCsvConverter/ExcelToCsvConverter
+
+[ExcelToCsvConverter.sln]
+SCC_Aux_Path = amdc1pbm01:8877:AMNADev
+SCC_Project_Name = $/ExcelToCsvConverter/ExcelToCsvConverter
+
